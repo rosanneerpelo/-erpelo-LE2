@@ -1,0 +1,12 @@
+C:\Users\MY PC\source\repos\ErpeloLE2\ErpeloBlogDB\bin\Debug\ErpeloBlogDB.dacpac
+C:\Users\MY PC\source\repos\ErpeloLE2\ErpeloBlogDB\bin\Debug\ErpeloBlogDB.dll
+C:\Users\MY PC\source\repos\ErpeloLE2\ErpeloBlogDB\bin\Debug\ErpeloBlogDB.pdb
+C:\Users\MY PC\source\repos\ErpeloLE2\ErpeloBlogDB\obj\Debug\ErpeloBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\ErpeloLE2\ErpeloBlogDB\obj\Debug\ErpeloBlogDB.dll
+C:\Users\MY PC\source\repos\ErpeloLE2\ErpeloBlogDB\obj\Debug\ErpeloBlogDB.pdb
+C:\Users\MY PC\source\ErpeloLE2\ErpeloBlogDB\bin\Debug\ErpeloBlogDB.dacpac
+C:\Users\MY PC\source\ErpeloLE2\ErpeloBlogDB\bin\Debug\ErpeloBlogDB.dll
+C:\Users\MY PC\source\ErpeloLE2\ErpeloBlogDB\bin\Debug\ErpeloBlogDB.pdb
+C:\Users\MY PC\source\ErpeloLE2\ErpeloBlogDB\obj\Debug\ErpeloBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\MY PC\source\ErpeloLE2\ErpeloBlogDB\obj\Debug\ErpeloBlogDB.dll
+C:\Users\MY PC\source\ErpeloLE2\ErpeloBlogDB\obj\Debug\ErpeloBlogDB.pdb

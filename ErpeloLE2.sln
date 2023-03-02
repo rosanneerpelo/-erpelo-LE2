@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ErpeloBlogDB", "ErpeloBlogDB\ErpeloBlogDB.sqlproj", "{690EA049-6714-484A-85BF-F2498F63C8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690EA049-6714-484A-85BF-F2498F63C8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690EA049-6714-484A-85BF-F2498F63C8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690EA049-6714-484A-85BF-F2498F63C8BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{690EA049-6714-484A-85BF-F2498F63C8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690EA049-6714-484A-85BF-F2498F63C8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690EA049-6714-484A-85BF-F2498F63C8BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9145EC8C-C779-4437-8F6F-980E35DEFF5D}
+	EndGlobalSection
+EndGlobal
